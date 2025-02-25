@@ -1,0 +1,305 @@
+1. Wordpress, Woocommerce
+https://retailserviciosexternos.com/
+https://www.winetourism.com/
+https://theprehabguys.com
+(theme: bridge plugin: elementor, custom field, membership, zendesk chat)
+https://claytonfit.com/ 
+(theme: Avada, plugin: woocommerce, klaviyo, fusion builder)
+https://getppsc.com/
+(theme: My Listing, Plugin: woocommerce, elementor, Yoast Seo, LiveChat)
+https://neurocentricapproach.com/
+https://drjustindean.com
+(Avada, Woocommerce)
+https://drjohnrusin.com/
+(Avada, Woocommerce)
+https://www.bigassfans.com/
+https://www.elementcase.com/
+https://www.federalresources.com/
+https://playatgila.com/
+https://www.fsltd.com/
+https://www.prmlaw.ca/
+http://www.ridgeviewbaptistchurch.com/
+bdwaynehardin.com
+https://florabowley.com/ 
+https://www.milliondollarpractice.net/
+http://www.chocholik.com/
+https://www.mykitchenheals.com.au/
+https://luxcapital.com/
+
+2. Blockchain
+- Swap, Farming: 
+https://crox-frontend-farm-2-0-3lmlt1lf8-croxswapcom.vercel.app/
+
+- Crypto game
+https://www.cryptoblades.io/
+bitcasino.com
+https://sloto.netlify.app/   (gambling)
+https://www.webwiders.com/WEB01/Lottery/sign-up
+https://gamdom.com/ - For roller reference
+https://rollettebet.com/ - For roller reference
+https://csgoempire.com/coinflip - For coinflip 
+
+- Solana
+https://magiceden.io/marketplace/degenfatcats
+
+-Casion
+ https://www.chumbacasino.com
+https://sasha-work.web.app
+
+- NFT marketplace
+https://nearnauts.io/
+https://marketplace.axieinfinity.com/axie
+https://www.themekaverse.com/  (modern landing UI Vue/nuxt/node)
+https://www.divineanarchy.com/
+https://thedogepoundnft.com/app
+https://baboons.gg/
+https://billionaireclubnft.com
+https://fishbowlheads.com/
+https://bestnftmaker.com
+https://ghostmarket.io
+https://ongaia.com
+https://battlehero.io/
+
+- NFT mint website
+https://metabountyhunters.io
+https://galacticempire.io/
+https://psychoteddynft.com/
+https://hypehippo.io
+https://www.simpmermaids.io/
+https://pandadynasty.io/
+https://www.poshpandas.ca/
+
+https://niftydudes.com/
+dafeis.io
+hodlgang.io
+thehorsemanclubnft.com
+cybershibas.com
+https://whalies.club/mint
+gevols.com
+
+https://kandikids.io/
+https://belladao.io/
+https://www.kozmoaliens.com/
+https://officialjeetape.com/
+https://knightsofchain.com/
+
+- DEFI :-
+http://anandisha.com/polypoxajay/account
+http://anandisha.com/gainpool/index.html
+https://zac.finance/
+http://gainpool.io/
+
+- ICO :-
+http://ebbicoin.com/
+https://rouge.network/
+http://greencointoken.com/
+https://www.bitrue.com/
+https://apps.apple.com/us/app/bitrue/id1435877386
+
+- Token listing
+https://top100token.com/
+
+NFT markeplace: http://picasso.to/
+Cryoticyrrency game : https://game.babylonswap.finance/
+Forking blockchain : https://deamchain.com/
+Dex platform : https://admin.usth.finance/
+NFT staking : http://www.soulhero.io/
+Presale : https://luckyshiba.org/
+Crypto currency and social bot : https://medium.com/p/c6939dca5e1a
+
+3. Next Website
+https://www.peoplegoal.com/
+https://www.cogofly.com/en/
+https://www.wealthsimple.com/en-gb/
+https://www.thecustommovement.com/
+https://www.mercari.com/
+https://www.culligan.com/
+https://sentry.io/
+
+4. React Website : 
+leasingoptions.co.uk (React)
+https://subol.io/
+https://www.thefreshmarket.com/
+https://angleplatform.com/
+https://www.nopeetstore.com/
+https://dubaiblocks.com/   (shopify)
+https://www.julianafalldin.com/
+https://www.belladonnagowns.com.au/
+https://dcgonboarding.com/home
+https://www.moonvision.io/
+https://mixups.io/
+https://forellagroup.com/home/
+https://animatly.io/
+https://markandjenny.us/
+https://www.orangetheory.com/en-us/ (React.js, laravel, mysql)
+http://www.brescadc.com/ (React.js)
+https://gopromenad.com/
+(React + Vue + Laravel + socket.io)
+
+React + Crypto
+https://www.opacity.io/
+
+React + NFT marketing
+https://treedefi.com/
+https://hanaiworld.com/
+https://mill3.studio/en/
+https://www.elysiumbulimba.com/
+https://nftrade.com/
+
+5. Vue and Node website
+https://tweezerworld.com/             *(wordpress)
+http://www.romwe.co.in
+https://www.rudolfson.com/            *(not loading)
+(Vue.js, Nuxt.js, Node.js)
+https://hourprice.com/                 *(???)
+https://airfarepouch.com/
+https://toptierkennel.com/               *(not working)
+http://demo.rossitermasters.com/         *(not working)
+
+6. Nuxt :
+https://zmotinstitute.com/
+https://www.familytree365.com/
+https://seekadoo.com/
+https://uxpressia.com/
+
+7. Laravel :
+https://thehamptonsapartments.com.au
+https://www.manhattanapartments.com.au
+https://legacyabrand.com/
+https://globalsharesgroup.com/
+https://www.manhattanapartments.com.au/
+https://www.orangetheory.com/en-us/ (React.js, laravel, mysql)
+https://resellcontent.com/
+https://www.familytree365.com/
+https://aussiemedicos.com.au/
+https://ttca.pydrox.com/
+http://demo.rossitermasters.com/
+https://www.techfix.ae/
+https://ahlesunnatpak.com/
+https://babybuy.am/
+https://gopromenad.com/
+(React + Vue + Laravel + socket.io)
+
+8. Open Cart (Ecommerce):
+https://www.beautymall.ca/
+
+9. Shopify sites
+https://scarlettwear.com/
+https://koraloc.com/
+https://ochocos.com/
+https://jamemme.com/
+https://www.drinkdezo.com/
+https://sweetkick.com/
+https://levelfoods.com/
+https://www.peppigel.com/
+https://store.holystone.com/
+https://sevenandsun.com/
+https://brinkerandeliza.com/
+https://electricpicks.com/
+
+10. Magento:
+www.muzzle-loaders.com
+https://montanawoodworks.com/
+https://www.everymanjack.com/
+
+11. Angular:
+https://rentberry.com/ [Angular 11]
+https://jdlandscaping.net/ [Angular 11]
+migrated website =>
+https://www.zbrdst.com/home [Angular 8]
+https://venusremedies.com/ (Angular)
+
+11. Other
+- Potfolio Website
+https://mywebsite.co.in/#
+
+- React, Css. Animation => Preloader
+http://139.196.82.33:8080/iframe.html?id=demo--demo
+
+- Tradingview chart
+https://cryptowat.ch/charts/KRAKEN:BTC-USD
+
+https://zorgo.games/game/coinflip/lobby
+if you go to “fairness” it shows how they do it
+
+token site
+https://tokenpow.com/
+
+CRYPTOCURRENCY Websites:
+https://bluehillmining.com/
+https://bogged.finance/
+
+Twilio Applications:
+http://ceflix.org/
+https://myffrs.com
+https://thinkthinly.com/
+
+Java
+https://www.blenheimvineyards.com/
+
+Solana
+step.finance
+app.hawksight.co
+
+Betting Sites
+https://www.velki.live/
+https://www.baajiex.live/#/
+
+~ ~~~~~~~ Job site links ~~~~~~~~
+Job Site Links
+angel.co
+indeed.com
+turing.com
+crowdworks.jp
+lancers.jp
+web3.career.com
+laborX.com
+nftcalendar.io(discord channel)
+jobvite.com
+jobot.com
+smartr.com
+hired.com
+fiverr.com
+
+https://disboard.org/servers/category/technology
+https://disboard.org/servers/tag/remote-jobs
+https://disboard.org/servers/tag/community
+https://disboard.org/servers/tag/nft
+https://disboard.org/servers/tag/crypto
+https://disboard.org/servers/tag/cute
+
+https://discord.com/jobs
+https://discord.st/?q=remote%20jobs
+https://medium.com/hackernoon/developer-slack-channels-remote-job-freelance-project-98e9b70d6275
+
+https://authenticjobs.com/
+https://remoteleads.io/
+https://vuejobs.com/
+https://www.gun.io/
+https://x-team.com/
+https://arc.dev/remote-developer-jobs
+https://weworkremotely.com/
+
+https://www.workingnomads.co/jobs
+https://www.flexjobs.com/
+https://www.sitepoint.com/community/
+https://www.womenwhocode.com/
+https://www.developerweek.com/
+http://vueconf.us/
+http://vueconf.us/
+https://remote.reactsummit.com/
+https://www.ces.tech/
+https://collisionconf.com/
+https://www.saastock.com/
+https://freshremote.work/job/83102-software-engineer-design-systems/
+https://remote.co/remote-jobs/developer
+https://remoteok.com/
+https://wowjobs.ca/
+https://wowjobs.us/
+https://whoishiring.io/
+https://www.workatastartup.com/companies?companySize=seed&demographic=any&expo=any&hasEquity=any&hasSalary=any&industry=any&interviewProcess=any&jobType=fulltime&layout=list-compact&remote=yes&role=eng&role_type=fs&sortBy=created_desc&usVisaNotRequired=any
+http://www.topusajobs.com/cgi/search.cgi?action=similarsearch&ssloc=&sskey=remote%20web%20developer&f=link&t=www.topusajobs.com&sid=w72bC9e32T-E5586t-G30T-H2134498-5J64G0h-21H9&page=1
+
+
+
++923480227469
